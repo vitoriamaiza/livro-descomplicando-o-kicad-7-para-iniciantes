@@ -1,0 +1,1 @@
+# livro-descomplicando-o-kicad-7-para-iniciantes
